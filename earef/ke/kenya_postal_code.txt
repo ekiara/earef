@@ -1,0 +1,671 @@
+# Source: https://github.com/georgeG/knykode/blob/master/data/postcodes.txt
+
+Adungosi,50413
+Agenga,40406
+Ahero,40101
+Ainabkoi,30101
+Akado,40114
+Akala,40139
+Aluor,40140
+Alupe,50414
+Amagoro,50244
+Amukura,50403
+Andingo,40136
+Angurai,50412
+Anyiko,40616
+Anyuongi,40617
+Aram,40618
+Archers Post,60302
+Arror,30708
+Asembo Bay,40619
+Asumbi,40309
+Athi River,00204
+Awach Bridge,40115
+Banja,50316
+Bar Ober,50411
+Baragoi,20601
+Baraton,30306
+Baricho,10302
+Bartabwa,30409
+Bartolimo,30408
+Barwesa,30411
+Bibirioni,00226
+Bissil,01101
+Boito,20409
+Bokoli,50206
+Bomet,20400
+Bondeni,20101
+Bondo,40601
+Boro,40620
+Budalangi,50415
+Bukura,50105
+Bulimbo,50109
+Bumala,50404
+Bumutiru,50418
+Bungoma,50200
+Bunyore,50301
+Bura Tana,70104
+Burnt Forest,30102
+Buru Buru,00515
+Busia,50400
+Butere,50101
+Butula,50405
+Buyofu,50210
+Chamakhanga,50302
+Changamwe,80102
+Chavakali,50317
+Chebara,20138
+Chebiemit,30706
+Cheborge,20215
+Chebororwa,30125
+Chebunyo,20226
+Chemamul,20222
+Chemaner,20407
+Chemase,40143
+Chemelil,40116
+Chemiron,30206
+Chepareria,30605
+Chepchoina,30207
+Chepkemel,20216
+Chepkiswet,20137
+Chepkorio,30129
+Chepkunyuk,30308
+Chepsonoi,30309
+Cheptais,50201
+Cheptalal,20410
+Chepterwai,30121
+Cheptongei,30709
+Chesamisi,50243
+Chesinendet,20217
+Chesoi,30712
+Chogoria,60401
+Chuka,60400
+Chuluni,90219
+Chumvini,80314
+Chwele,50202
+City Square,00200
+Coast Gen Hsp,80103
+Community,00201
+Dadaab,70103
+Dago,40112
+Daraja Mbili,40117
+Dede,40331
+Diani Beach,80401
+Docks,80104
+Dol Dol,10401
+Donyo Sabuk,01027
+Dorofu,50213
+Dudi,40621
+Dundori,20118
+Eastleigh,00610
+Egerton University,20115
+Ekalakala,90139
+El Wak,70301
+Elburgon,20102
+Eldama Ravine,20103
+Eldoret Airport,30124
+Eldoret,30100
+Elementaita,20119
+Elugulu,50429
+Emali,90121
+Emarinda,50110
+Embakasi,00501
+Embu,60100
+Emining,20140
+Emuhaya,50314
+Endarasha,10107
+Endau,90206
+Endebess,30201
+Enosaen,40703
+Enterprise Road,00500
+Equator,30122
+Eregi,50303
+Esso Plaza,00620
+Etago,40208
+Faza,80501
+Fort Ternan,20209
+Funyula,50406
+Gacharageini,10210
+Gachika,00238
+Gachoka,60119
+Gaitu,60209
+Gakere Road,10109
+Gakindu,10111
+Gakoe,01005
+Gakurwe,10211
+Gambogi,50318
+Ganze,80205
+Garba Tulla,60301
+Garissa,70100
+Garsen,80201
+Gatara,10212
+Gatarakwa,10112
+Gathiruini,00239
+Gathugu,00240
+Gathuthi,10113
+Gatitu,10114
+Gatondo,10115
+Gatugura,10305
+Gatukuyu,01028
+Gatundu,01030
+Gatunga,60404
+Gatura,01013
+Gede,80208
+Gembe,40312
+Gesima,40503
+Githunguri,00216
+Gitimene,60212
+Gituamba,01003
+Gitugi,10209
+Gongoni,80206
+Gorgor,20411
+Got Oyaro,40313
+Griftu,70202
+Habaswein,70201
+Hakati,50407
+Hamisi,50312
+Hawinga,40640
+Highridge,00612
+Hola,70101
+Homa Bay,40300
+Huruma,30109
+Ichichi,10227
+Ilasit,00214
+Ileho,50111
+Imanga,50112
+Indechero,50113
+Iriwa,80310
+Ishiara,60102
+Isibania,40414
+Isinya,01102
+Isiolo,60300
+Isulu,50114
+Iten,30700
+Ithanga,01015
+Itibo,40504
+Itumbe,40210
+Jebrok,50319
+Juja Road,00622
+KICC,00203
+Kabarnet,30400
+Kabartonjo,30401
+Kabati,90205
+Kabatini,20120
+Kabazi,20114
+Kabete,00602
+Kabianga,20201
+Kabiemit,30130
+Kabimoi,20139
+Kabiyet,30303
+Kaboson,20412
+Kabula,50214
+Kacheliba,30601
+Kadel,40314
+Kadongo,40223
+Kagicha,10119
+Kagio,10306
+Kagumo,10307
+Kagunduini,01033
+Kagwe,00223
+Kaheho,20304
+Kahuhia,10206
+Kahuro,10201
+Kahuti,10214
+Kaibichbich,30606
+Kaiboi,30310
+Kaimosi,50305
+Kainuk,30604
+Kairi,01007
+Kairo,10215
+Kajiado,01100
+Kakamega,50100
+Kakemer,50419
+Kakibora,30216
+Kakoneni,80209
+Kakuma,30501
+Kakunga,50115
+Kakuzi,01014
+Kalamba,90306
+Kalawa,90126
+Kalimoni,01001
+Kalokol,30502
+Kaloleni,80105
+Kamaget,20218
+Kamahuha,10217
+Kamara,20134
+Kamberua,10216
+Kambiri,50116
+Kambiti,10226
+Kamiti,00607
+Kampi Ya Moto,20121
+Kampi Ya Samaki,30406
+Kamukuywa,50216
+Kamuriai,50408
+Kamuwongo,90403
+Kamwaura,20132
+Kamwosor,30113
+Kanam,40315
+Kandara,01034
+Kanyoni,01011
+Kanyuambora,60106
+Kanziko,90208
+Kapcheno,30304
+Kapcherany,20413
+Kapcherop,30204
+Kapchorwa,30311
+Kapedo,30410
+Kapenguria,30600
+Kapkateny,50232
+Kapkatet,20214
+Kapkelek,20219
+Kapkenda,30119
+Kapkesosio,20414
+Kapkoros,20415
+Kerugoya,10300
+Laare,60601
+Laboret,30126
+Labuiywo,40144
+Ladhri Awasi,40122
+Lamu,80500
+Lamuria,10139
+Lanet,20112
+Langas,30112
+Langata,00509
+Lavington,00603
+Lela,40134
+Lengita,20506
+Leseru,30115
+Leshau,20310
+Lessos,30302
+Likoni,80110
+Limuru,00217
+Lita,90109
+Lodwar,30500
+Loitokitok,00209
+Loiyangalani,60501
+Lokichar,30505
+Lokichoggio,30503
+Lokitaung,30504
+Lokori,30506
+Lolgorian,40701
+Lolwe,40128
+Londiani,20203
+Longisa,20402
+Longonot,20146
+Lorugum,30507
+Lower Kabete,00604
+Luanda,50307
+Luandanyi,50219
+Luandeti,50240
+Lugari,50108
+Lugingo,40622
+Lugulu,50218
+Luhano,40623
+Lukolis,50421
+Lukore,80408
+Lukume,50132
+Lukusi,50230
+Lumakanda,50242
+Lunga Lunga,80402
+Lunza,50119
+Lurambi,50120
+Lusingeti,00905
+Lusiola,50320
+Lutaso,50121
+Lwakhakha,50220
+Maai Mahiu,20147
+Mabusi,50235
+Machakos,90100
+Madaraka,01002
+Madeya,40641
+Madiany,40613
+Madina,80207
+Magada,50321
+Magadi,00205
+Mageta,40624
+Mago,50325
+Magombo,40507
+Magumoni,60403
+Magunga,40307
+Magutuni,60407
+Magwagwa,40508
+Mahanga,50322
+Maiella,20148
+Mairo Inya,20314
+Maji Mazuri,20145
+Makimeny,20228
+Makindu,90138
+Makongeni,00510
+Maktau,80315
+Makueni,90300
+Makumbi,20149
+Makunga,50133
+Makupa,80112
+Makutano,20141
+Makuyu,01020
+Malaha,50122
+Malakisi,50209
+Malava,50103
+Maliki,50221
+Malindi,80200
+Malinya,50123
+Mandera,70300
+Manga,40509
+Manyani,80301
+Manyatta,60101
+Manyuanda,40625
+Manyulia,50126
+Maragi,10221
+Maragoli,50300
+Maragua,10205
+Maralal,20600
+Marani,40214
+Mariakani,80113
+Marigat,30403
+Marima,60408
+Marimanti,60215
+Marinde,40318
+Mariwa,40408
+Marmanet,20322
+Marsabit,60500
+Marua,10127
+Masana,50324
+Maseno,40105
+Mashini,80312
+Mashuru,01103
+Masii,90101
+Masimba,40215
+Masinga,90141
+Mataara,1009
+Nairage Enkare,20504
+Nairobi GPO,00100
+Naishi,20142
+Naitiri,50211
+Naivasha,20117
+Nakuru,20100
+Nalondo,50227
+Namanga,00207
+Nambacha,50127
+Nambale,50409
+Namorio,50231
+Nandi Hills,30301
+Nandolia,50228
+Nangili,50239
+Nango,40615
+Nanyuki,10400
+Naro Moru,10105
+Naro Sura,20505
+Narok,20500
+Ndakaini,01025
+Ndalani,90118
+Ndalat,30123
+Ndalu,30219
+Ndanai,20404
+Ndaragwa,20306
+Ndaraweta,20420
+Ndenderu,00230
+Ndere,40629
+Nderu,00229
+Ndhiwa,40302
+Ndigwa,40630
+Ndiru,40321
+Ndithini,01016
+Ndiyisi,50229
+Ndooa,90202
+Ndori,40602
+Ndunyu Njeru,20317
+Ngambwa,80311
+Nganduri,60115
+Ngano,20308
+Ngara Rd,00600
+Ngarua,20328
+Ngecha,00218
+Ngelesha,20324
+Ngewa,00901
+Nginyang,30404
+Ngiya,40603
+Ngoliba,01012
+Ngonda,10229
+Ngong Hills,00208
+Ngong Rd,00505
+Ngorika,20126
+Ngorongo,00225
+Nguni,90407
+Nguyoini,10224
+Ngwata,90129
+Njipiship,40702
+Njoro,20107
+Nkondi,60214
+Nkubu,60202
+North Kinangop,20154
+Ntimaru,40417
+Nunguni,90130
+Nuu,90408
+Nyabondo,40124
+Nyaburi,40322
+Nyacheki,40217
+Nyadorera,40631
+Nyahururu,20300
+Nyakwere,40125
+Nyali,80118
+Nyamache,40203
+Nyamarambe,40206
+Nyambunwa,40205
+Nyamira,40500
+Nyamonye,40632
+Nyamtiro,40419
+Nyangande,40126
+Nyangori,40127
+Nyangusu,40218
+Nyangweso,40311
+Nyansiongo,40502
+Nyanturago,40219
+Nyaramba,40514
+Nyaru,30131
+Nyatike,40402
+Nyawara,40633
+Nyayo Stadium,00506
+Nyeri,10100
+Nyilima,40611
+Nzeeka,90136
+Nziu,90308
+Nzoia,50237
+Obekai,50427
+Oboch,40129
+Ogembo,40204
+Ogen,40130
+Ogongo,40323
+Okia,90301
+Ol Butyo,20229
+Ol Joro Orok,20302
+Ol Kalou,20303
+Olenguruone,20152
+Olkurto,20502
+Olololunga,20503
+Oloomirani,20507
+Oltepesi,00213
+Omboga,40306
+Omogonchoro,40221
+Ongata Rongai,00511
+Oriang,40227
+Ortum,30602
+Otaro,40324
+Othaya,10106
+Othoch Rakuom,40411
+Othoro,40224
+Otonglo,40108
+Oyugis,40222
+Pala,40329
+Pap Onditi,40111
+Parklands,00623
+Passenga,20311
+Paw Akuche,40131
+Pembe Tatu,40113
+Plateau,30116
+Port Victoria,50410
+Quarry Road,00624
+Rabuor,40132
+Racecourse Road,00617
+Ragengni,40604
+Rakwaro,40325
+Ramba,40330
+Ramula,40142
+Ranen,40412
+Rangala,40634
+Rangwe,40303
+Rapogi,40403
+Ratta,40137
+Reru,40133
+Rhamu,70302
+Rigoma,40511
+Ringa,40226
+Riochanda,40512
+Riosiri,40220
+Riruta,00512
+Rodi Kopany,40326
+Ronald Ngala St,00300
+Ronda,20127
+Rongai,20108
+Rongo,40404
+Roret,20204
+Ruaraka,00618
+Ruiru,00232
+Rumuruti,20321
+Runyenjes,60103
+Ruri,20313
+Ruringu,10133
+Rusinga,40327
+Ruthangati,10134
+Saba Saba,10208
+Sabatia,20143
+Saboti,30211
+Sagalla,80308
+Sagana,10230
+Samburu,80120
+Samitsi,50128
+Sare,40405
+Sarit Centre,00606
+Sasumua Road,00513
+Sawagongo,40612
+Sega,40614
+Serem,50308
+Seretunin,30407
+Shabaab,20150
+Shianda,50106
+Shiatsala,50129
+Shibuli,50130
+Shimanyiro,50131
+Shimba Hills,80407
+Shinyalu,50107
+Siakago,60104
+Siaya,40600
+Sidindi,40605
+Sifuyo,40643
+Sigomre,40635
+Sigor,20405
+Sigoti,40135
+Sigowet,20212
+Sikinwa,30217
+Silibwet,20422
+Simat,30127
+Sindo,40308
+Singore,30703
+Sio Port,50401
+Siongiroi,20230
+Sipili,20326
+Sirembe,40636
+Sirende,30213
+Sirisia,50208
+Sirongo,40642
+Solai,20128
+Sololo,60701
+Sondu,40109
+Songhor,40110
+Sorget,20223
+Sosiot,20205
+Sotik,20227
+South Horr,20604
+South Kinangop,20155
+Soy,30105
+Suba Kuria,40418
+Subukia,20109
+Suguta Mar Mar,20602
+Sulmac,20151
+Sultan Hamud,90132
+Suna,40400
+Suwerwa,30212
+Tabani,30220
+Tala,90131
+Tambach,30704
+Tarasaa,80203
+Tausa,80309
+Taveta,80302
+Tawa,90133
+Tenges,30405
+Thaara,10110
+Thangathi,10135
+Thare,01026
+Thigio,00210
+Thika,01000
+Tigiji,60210
+Timau,10402
+Timber Mill Rd,20110
+Timboroa,30108
+Tiriki,50309
+Tom Mboya St,00400
+Tombe,40513
+Tongaren,30218
+Torongo,20153
+Tot,30707
+Tseikuru,90409
+Tulia,90203
+Tumu Tumu,10136
+Tunyai,60213
+Turbo,30106
+Turi,20129
+Uaso Nyiro,10137
+Ugunja,40606
+Uhuru Gardens,00000
+Ukunda,80400
+Ukwala,40607
+Uplands,00222
+Uranga,40608
+Uriri,40228
+Usenge,40609
+Usigu,40637
+Uthiru,00605
+Valley Arcade,00514
+Vihiga,50310
+Village Market,00621
+Vipingo,80119
+Vitengeni,80211
+Viwandani,00507
+Voi,80300
+Voo,90212
+Wagusu,40638
+Waithaka,00613
+Wajir,70200
+Wamagana,10138
+Wamba,20603
+Wamunyu,90103
+Wamwangi,01010
+Wangige,00614
+Wanguru,10303
+Wanjengi,10225
+Wanjohi,20305
+Watalii Road,80204
+Watamu,80202
+Webuye,50205
+Weiwei,30603
+Werugha,80303
+Westlands,00800
+Winam,40141
+Witu,80504
+Wiyumiririe,20329
+Wodanga,50311
+Wundanyi,80304
+Yala,40610
+Yaya Towers,00508
+Yoani,90134
+Ziwa,30214
+Zombe,90213
