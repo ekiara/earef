@@ -1,0 +1,32 @@
+NATIONAL DESTINATION CODES (NDCs) FOR FIXED TELEPHONE SERVICES
+
+NDC           Region
+
+20            Nairobi City
+21-29         Reserved for future use
+40            Kwale Region
+41            Mombasa, Mariakani and Kilifi Regions
+42            Malindi, Lamu and Garsen Regions
+43            Voi, Taveta, Wundanyi and Mwatate regions
+44            Machakos, Makueni, Kitui and Mwingi Regions
+45            Ngong, Kajiado, Loitokitok and Athiriver Regions
+46            Garissa, Hola, Wajir and Mandera regions
+50            Naivasha and Narok Regions
+51            Nakuru Region
+52            Kericho and Bomet Regions
+53            Eldoret, Turbo, Kapsabet, Iten and Kabarnet Regions
+54            Kitale, Moisbridge, Kapenguria and Lodwar Regions
+55            Bungoma and Busia Regions
+56            Kakamega, Butere, Mbale and Mumias Region
+57            Kisumu, Maseno and Siaya Regions
+58            Kisii, Kilgoris, Oyugis and Nyamira Regions
+59            Homabay and Migori Regions
+60            Muranga and Kirinyaga Regions
+61            Nyeri Region
+62            Nanyuki Region
+63            Reserved for future use
+64            Meru, Maua and Chuka Regions
+66            Thika and Ruiru Regions
+67            Kiambu and Kikuyu Regions
+68            Embu Region
+69            Marsabit and Moyale
